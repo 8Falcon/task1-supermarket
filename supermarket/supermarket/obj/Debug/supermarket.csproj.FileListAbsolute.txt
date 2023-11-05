@@ -1,0 +1,10 @@
+C:\Users\ikmik\Desktop\supermarket\supermarket\bin\Debug\supermarket.exe.config
+C:\Users\ikmik\Desktop\supermarket\supermarket\bin\Debug\supermarket.exe
+C:\Users\ikmik\Desktop\supermarket\supermarket\bin\Debug\supermarket.pdb
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.csprojAssemblyReference.cache
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.Form1.resources
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.Properties.Resources.resources
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.csproj.GenerateResource.cache
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.exe
+C:\Users\ikmik\Desktop\supermarket\supermarket\obj\Debug\supermarket.pdb
